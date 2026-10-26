@@ -1,0 +1,14 @@
+{
+  "name": "spillproof-server",
+  "version": "0.1.0",
+  "description": "SpillProof API: tamper-evident case records for oil spill Joint Investigation Visits",
+  "main": "src/hashChain.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
